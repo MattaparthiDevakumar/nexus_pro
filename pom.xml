@@ -101,12 +101,12 @@
         <repository>
             <id>deployment</id>
             <name>Internal Releases</name>
-            <url>http://54.196.81.176:8081/repository/samplenexus3-REL/</url>
+            <url>http://54.224.60.52:8081/repository/samplenexus3-REL/</url>
         </repository>
         <snapshotRepository>
             <id>deployment</id>
             <name>Internal Snapshot Releases</name>
-            <url>http://54.196.81.176:8081/repository/samplenexus3-snap/</url>
+            <url>http://54.224.60.52:8081/repository/samplenexus3-snap/</url>
         </snapshotRepository>
     </distributionManagement>
       
