@@ -97,6 +97,7 @@
     <finalName>SampleTest</finalName>
   </build>
       
+	<!--
       <distributionManagement>
         <repository>
             <id>deployment</id>
@@ -109,5 +110,6 @@
             <url>http://54.224.60.52:8081/repository/samplenexus3-snap/</url>
         </snapshotRepository>
     </distributionManagement>
+	-->
       
 </project>
